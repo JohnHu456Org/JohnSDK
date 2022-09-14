@@ -21,7 +21,7 @@ body:
     attributes:
       label: Steps to reproduce
       description: Steps to reproduce the behavior or code snippet. 
-      value: "Go to ...\nClick on ...\nScroll down to ...\nSee error"
+      value: "Go to"
     validations:
       required: true
   - type: textarea
