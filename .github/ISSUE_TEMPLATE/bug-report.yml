@@ -19,7 +19,7 @@ body:
     id: to-reproduce
     attributes:
       label: Steps to reproduce
-      description: Steps to reproduce the behavior or code snippet and screenshots. 
+      description: Steps to reproduce the behavior, code snippet or screenshots. If possible, attach a minimized demo project would help a lot!
       value: "Go to \'...\'\nClick on \'....\'\nScroll down to \'....\'\nSee error"
     validations:
       required: true

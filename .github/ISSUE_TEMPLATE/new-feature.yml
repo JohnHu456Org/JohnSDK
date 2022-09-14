@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: why-you-want
     attributes:
-      label: Describe the painpoint
+      label: Describe the pain point
       description: Describe what's your user case or why you want this new feature.
     validations:
       required: false
